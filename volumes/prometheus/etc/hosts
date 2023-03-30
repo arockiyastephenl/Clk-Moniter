@@ -1,0 +1,19 @@
+127.0.0.1 localhost
+172.31.29.48  toucan
+172.31.23.10  emu
+172.31.42.248 swan
+172.31.32.214  jabiru
+172.31.24.210  myna
+172.31.33.182  beta
+172.31.37.218  eagle
+172.31.37.110  kite
+172.31.42.30  magpie
+172.31.44.152  plover
+
+# The following lines are desirable for IPv6 capable hosts
+::1 ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
